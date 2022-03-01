@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [20th-27th November 1643]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97365</idno>
+            <idno type="STC">Thomason E77_7</idno>
+            <idno type="STC">ESTC P1079</idno>
+            <idno type="EEBO-CITATION">53403882</idno>
+            <idno type="OCLC"> 53403882</idno>
+            <idno type="VID">155552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155552)</note>
+            <note>Images scanned from microfilm: (Early English books, Thomason Tracts ; 13:E.77[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [20th-27th November 1643]</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>[1643].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Weekly publication.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155552:1" rendition="simple:additions"/>
+            <p>Mercurius Cambro-Britannus, <hi>THE BRITTISH MERCURY; OR THE VVELCH DIURNALL.</hi>
+            </p>
+            <p>
+               <hi>Communicating remarkable</hi> Intelligences, <hi>and true Newes to awle the whole Kingdom, from Munday</hi> November <hi>20, to Munday the 27. 1643.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1.</hi> Prince <hi>Rupert</hi> her unmercifull plunderings in Northamptonſhire, which her intend to make as poore as Wales.</item>
+               <item>
+                  <hi>2.</hi> Te pigge ſucceſſes of Sir <hi>Thomas Middleton</hi> and Sir <hi>William Brereton</hi> in Shropſhire, and of teyr advancing towards Weſt cheſter, which ſpight of awle te Iriſh Rebells lately landed, her ferily hope, that tey will take in good time.</item>
+               <item>
+                  <hi>3.</hi> Sir <hi>Thomas Glemham</hi> was heare was made Governour of New-caſtle, and te warme newes of Coles comming to London.</item>
+               <item>
+                  <hi>4.</hi> Te creat warre, and te quarrells like to grow high betwixt te Tevill (God bleſse us) and te Pope.</item>
+               <item>
+                  <hi>5.</hi> A true Relation of horrible plunderings in Ireland, which her would have you know grew a creat deale taller then tey were by te late Ceſſation of Armes.</item>
+               <item>
+                  <hi>6.</hi> Her can tell you of ſome hopes of Peace, and how farre te French Ambaſsa<g ref="char:EOLhyphen"/>dour will travell to pring it about.</item>
+               <item>
+                  <hi>7.</hi> Vas tell of creat defeat given to Colonell <hi>Huddleſton</hi> by her Colonell <hi>Rigby</hi> neer Thurland Caſtle, and her tell how Thurland Caſtle was taken all to pie<g ref="char:EOLhyphen"/>ces, and demoliſhed.</item>
+               <item>
+                  <hi>8.</hi> Te creat Mount neer Plymmouth was taken by Tevill-Cavilliers, and te Te<g ref="char:EOLhyphen"/>vill will take te Cavilliers.</item>
+               <item>
+                  <hi>9.</hi> Bazing Houſe (her heare) is not taken yet, and (her heare) it is not like to be taken creat while.</item>
+               <item>
+                  <hi>10.</hi> Sir <hi>Ralph Hopton,</hi> that hopt on to VVincheſter hath now got creat pride <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mind, and offer to face (her heare) and deface if her can Sir <hi>William Wallets</hi> men, and from awle te Roomes in her houſe.</item>
+               <item>
+                  <hi>11.</hi> Newes from her owne houſe in her Country of VVales.</item>
+            </list>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, <hi>Printed by</hi> Bernard Alſop, <hi>Novemb. 27. 1943.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155552:2"/>
+            <pb n="1" facs="tcp:155552:2"/>
+            <head>THE BRITTISH MERCURY COMMUNICATING Remarkable <hi>Intelligences,</hi> and true <hi>Newes</hi> to awle the whole Kingdome, from Munday <hi>November</hi> 20. to Munday <hi>Novemb.</hi> 27. 1643.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen her was a Student in te Vniverſity of Oxford, nothing could be more welcome unto her, then to receive from her friends good newes, and halfe a piece of gold incloſed in a Letter, but now they write, and write, but ſend no gold in her Letter, but cold newes; would te warre might ceaſe, that her pen might not travell from Towne to Town to heare matters, and ſhew all as the mayde did, who fell from her horſe with her coat over her head, and diſcovered her naked belly, and more and more be<g ref="char:EOLhyphen"/>ſide, whereof her will not give you account.</p>
+            <p>But her will make more ſerious narrations, &amp; from Shropſhire bordering on Wales, tell you that which is ſober cood newes, namely that Sir <hi>Thomas Mid<g ref="char:EOLhyphen"/>dleton</hi> a creat landed man in Wales, and Sir <hi>William Brereton</hi> have lately gone bravely on, and done matter of valour whereby to raiſe their fame, for they have lately taken Holl-Caſtle being the Earle of Bridgewaters houſe, both te Hall, and te Parlour, and te Kitching, and te fery houſe of Office, and more<g ref="char:EOLhyphen"/>over her have lately took the Towne of Roxford, whereby te paſſages into North-wales are cleered, and her may by day or te light of te moone ſafe<g ref="char:EOLhyphen"/>ly travell, te carrier may paſſe between te legs of te mountaine, te narrow way doth lye wide open like te whore to receive awle commers.</p>
+            <p>Her be no Prophet, yet her doe fery well remember that her cryed out alwayes againſt te Iriſh Rebells, comming to cut te Proteſtants throat, but
+<pb n="2" facs="tcp:155552:3"/>
+               <hi>Caſſandra</hi> was creat Propheteſſe, that foretold the deſtruction of Troy, yet was not believed, and ſo her words formerly were not regarded, but now her heare from Ireland that te ſouldiers are growne ſo fery bold, that they tooke mens clo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thes from their back, and hats from their heads; and it is thought te Iriſh Rebells comming into Wales on Saint Taffyes day, would take her hat with te Leek in it from her head, as they doe in Ireland.</p>
+            <p>And now her talke of Hull, the Earle of New-caſtle hath ſent Sir <hi>Thomas Glemham</hi> to New-caſtle with a Regiment of foot to ſtrenthen te Garriſon, and hath put te Towne into his protection, which occaſioned ſome diſcords be<g ref="char:EOLhyphen"/>twixt Sir <hi>Thomas Glemham,</hi> and the Major of New-caſtle and te ſouldiers on te reciving of teyr new Governour, began to mutiny for their pay due unto them, and would not be pacified, untill they were promiſed that te Sea-port ſhould be open, and that they ſhould have liberty to make mony by ſelling of the coale, which may be fery warme newes into the City of London, where they are faine to ſpend their mony in Ale-houſes to warme their toes, and teyr hands, in te cold weather by the fire ſide.</p>
+            <p>By a ſhip which from forraigne parts arrived in Wales, her doe certainly underſtand that ſome grudgings hath begot a creat diſcontent betweene te Pope and te Divell, who doth intend to come againſt him with awle his black furies and infernall forces, but Cardinalls knowing that te Divell hath been alwayes aſſiſting to te Pope and te Papiſts, as in te Powder Treaſons and o<g ref="char:EOLhyphen"/>ther plots, they endeavour what they can to make te Pope conſider that the Devill hath been alwayes his cloſe friend, and that her had long ſince fallen out of her chaire of Supremacy, if her had not been held up by the immediate power of te Devill, and ſo the Pope and te Cardinalls are intended to make a new Peace with te Devill, for if te Popiſh malignant devilliſh Kingdome ſhould be divided againſt it ſelfe, it could not ſtand.</p>
+            <p>Prince <hi>Rupert</hi> and his Cavaliers (as her doe hear) have done creat harm in <hi>Northamptonſhire,</hi> by their pillaging and plundering, whereſoever they come, and doe every day take to the value of a thouſand pound from te Inhabitants, for now her have got a cuſtome of robbing, her cannot leave it; for robbing of mens houſes is grown a common trade amongſt Souldiers, and they are more to be blamed, that doe live by ſpoiling te Kings good Subjects, then thoſe that doe ſteale for neceſſities, and what will be the funerall end of aul, but a generally deſolations, which will come ſpeedily upon this Kingdome, for no man poſſeſſeth te thing that he can call his owne, the ſubject having onely libertie to chuſe whether he will begge or ſtarve, when aul his coods have been taken from her by te Cavaliers.</p>
+            <p>O Saint <hi>TAFFY,</hi> who would have thought to have ſeen ſuch ploody
+<pb n="3" facs="tcp:155552:3"/>times and manners? For ſince the Ceſſation of Armes, they have Killed creat many true Proteſtants, and have made te hand of te King, and te hand of aul <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Commiſſioners, that ſigned and put creat Seal to te Articles of peace with te ploody Rebells, to be guilty of much creat deal of plood. And to ſhew her parbarous minds, being like <hi>Gripe</hi> te Uſurer, that doth take and get aul: the Lord of <hi>Caſtlehaven</hi> hath taken in <hi>Irelaud</hi> thiry two Caſtles, and killed the men that were within them, and te Inhabitants of of <hi>Wichloe</hi> have drove from <hi>Dublin</hi> 400. Cowes, and have ſeized on merchandize, and took te own<g ref="char:EOLhyphen"/>ers prriſoners, and have ſent them afterward home almoſt naked, and without hat, coat or dublet, that te cold might be guilty of their bloodſhed, and to ſhew te Cruelty of te Barber or Chyrurgion, they cut off one mans noſe or lips, and ſome of his skull, as if they would make him an Anathomy, and reade Lectures over him, as they doe in the Surgeons Hall. But indeed the Rebells endeavour is, to ruine and extinguiſh te Proteſtants quite out of te Realme.</p>
+            <p>Her doe love to ſee peace exceedingly both in the Common-wealth, and in her houſe, and there is a kinde of glimmering light of peace that doth breake through the Cloud of warre, for the French Ambaſſadour hath lately by his letter ſent unto te Houſes, moved for the procuring of a peace, and her do wiſh with aul te heart in her pelly, that there were peace between her King and Parliament, but how can that be by ſhedding of plood? if aul Proteſtants be brethren, muſt her kill one another, as <hi>Kain</hi> killed <hi>Abel</hi> at the beginning of the Wold? no, no, if her King and Parliament would agree, then her might live at quiet on her Mountains, &amp; if her could ſee that day, her would have aul te bells to ring in <hi>Wales,</hi> make Bonfire of her buſhes, and in Metheglin drink healths to her King, and to confuſion of aul thoſe that have hindred the agree<g ref="char:EOLhyphen"/>ment between the King and Parliament, for her be weary of writing of the Warre, and her is now tyred with fighting in te War.</p>
+            <p>Yer her will next preſent unto your knowledge a creat defeat given to a body of te Earl of <hi>Newcaſtles</hi> Army neer <hi>Thurland</hi> Caſtle, upon the edge of <hi>Lancaſhire.</hi> For the ſaid Colonell <hi>Rigby,</hi> having not above 200. horſe, and 300 foot forſooke the Caſtle, whereunto her had formerly laid ſiege, and advan<g ref="char:EOLhyphen"/>ted with her forces to encounter te enemy, being about 3000. horſe and foot, and comming ſuddainly upon them, put te enemy into ſuch a fright, that they were abſolutely diſperſed and routed, many killed, and about 400. taken pri<g ref="char:EOLhyphen"/>ſoners, among te reſt, Colonell <hi>Huddleſton</hi> their chief Commander, and after<g ref="char:EOLhyphen"/>ward her returned to <hi>Thurland</hi> Caſtle, which was preſently ſurrendred and de<g ref="char:EOLhyphen"/>moliſhed. Her doe wonder that te malignants dare ſo often appeare in te open field, unleſſe te reaſon is, that the Northern people being rude by nature and education, have deſires to be peaten into better manners, but indeed, for
+<pb n="4" facs="tcp:155552:4"/>the true Cauſe, her muſt look up among te ſtarres, and there behold te hand of Providence, letting victorious garlands fall down on te heads of te Parliaments Souldiers, for te truth of te Proteſtant Cauſe is creat, and ſhall in te concluſi<g ref="char:EOLhyphen"/>ons prevail over te Papiſts and malignants.</p>
+            <p>But all matters run not even in te affaires of Warr, for te creat work at <hi>Plymmouth</hi> called <hi>Mount Stamford,</hi> is taken by te enemy, and they doe want chiefly admonition, her ſhould ſay Ammunition, which te Parliament will ſpe<g ref="char:EOLhyphen"/>dily ſend them. All te Towneſmen have entred into a ſolemn Oath. to live and dye together, and to oppoſe te enemy, by ſtanding it out to te laſt man, which is indeed as a prave Reſolution, as if they had been aul deſcended from her auncient Prittiſh Worthy <hi>Owen Glendor,</hi> for he that would win a victory, or a faire Miſtris, muſt alwayes ſtand ſtiffely to the matter.</p>
+            <p>Her have read, that in old times mighty Gyants live in inchanted Caſtles, and her doe now hear, that a creat company of Malignants live ſo ſtrongly fortifyed in <hi>Bazing Houſe,</hi> ſo that Sir <hi>William Waller</hi> hath drawn his foot for<g ref="char:EOLhyphen"/>ces from thence to <hi>Farnham Caſtle,</hi> for te walls be as thick as thoſe of <hi>Plutoes</hi> Court, where he doth live with his malignant Queen <hi>Proſerpine,</hi> and there be many malignant Ladies, and other women within the Caſtle, from the walls whereof, the women threw brickbats on our Souldiers heads; and bid te Souliers, <hi>Come up Round-heads if ye dare;</hi> and no doubt but her will hereafter come up, and take away aul her gold and ſilver that doth lie buried in te gound in te ſheets.</p>
+            <p>From <hi>Scotland</hi> her be informed, that when they heard that te Article of ac<g ref="char:EOLhyphen"/>cord from te Parliameut, with te advance money, were put to ſea; they pre<g ref="char:EOLhyphen"/>ſently gave order to draw their Forces into Body, whereby they might be in te more readineſſe to advance into <hi>England,</hi> ſo that they will make te Earl of <hi>Newcaſtle</hi> fly from place to place, like her young Goat chaſed by her little puppy dogge over te Mountain, for they will come to <hi>Newcaſtle</hi> and <hi>Hull,</hi> and other townes.</p>
+            <p>Her will now in a compendious manner tell you awle te remarkable paſſa<g ref="char:EOLhyphen"/>ges of this week handſomely packt together, becauſe cloſe doing is beſt un<g ref="char:EOLhyphen"/>der the ſheet.</p>
+            <p>Prince <hi>Rupert</hi> doth goe in his plundering way, and hath made Northamp<g ref="char:EOLhyphen"/>tonſhire as poore as Wales, and is now within foure miles of Northampton Towne with a ſtrong Body of Horſe.</p>
+            <p>Many Volantiers out of Nottinghamſhire and Derbyſhire are come to ayde Sir <hi>Thomas Fairfax,</hi>
+            </p>
+            <p>Sir <hi>William Wallers</hi> Horſe lye about te countrey to ſtarve teyr pellies, and to keep awle proviſion from comming to relieve the malignant in Bazing Houſe.</p>
+            <pb n="3" facs="tcp:155552:4"/>
+            <p>Sir <hi>Ralph Hopton</hi> is hopt on to Wincheſter, but is lame in men and Am<g ref="char:EOLhyphen"/>munition, and not able to meet with Sir <hi>William Waller.</hi>
+            </p>
+            <p>The Biſhop of Canterbury appeared before te Parliament, but her Counſell being no cood Doctors to cleere and purge him, he was ſent back againe to te Tower.</p>
+            <p>The Earle of New-caſtles Army doth moulter away, and he is ſick of te conſumption of his Army; and the Gentry of te Northerne Counties ſtand for te Parliament.</p>
+            <p>Griefe it is to tell that his Majey hath ſent for all te Engliſh Regiments in Ireland to ſerve againſt te Parliament, ſix Regiments are to be tranſported to Briſtoll, and the Earle of Corke will bring foure other Regiments to main<g ref="char:EOLhyphen"/>taine tis unnaturall warre againſt te Parliament.</p>
+            <p>Sir <hi>William Waller</hi> (as her heare) lately took te Popiſh Lord <hi>Salton</hi> at New<g ref="char:EOLhyphen"/>bery. who comming from France, landed in Suſſex, and with him four thou<g ref="char:EOLhyphen"/>ſand pound was taken Priſoner, and his Lordſhip is brought up to London.</p>
+            <p>Vpon te newes of te Advance-mony ſent into Scotland, they have drawne their forces into Poddies, and will ſpeedily advance into England, then toward te malignants.</p>
+            <p>Tere was lately ſome skirmiſhes between te Parliaments forces and te Ca<g ref="char:EOLhyphen"/>valliers at Owlney, wherein te London Red Regiment were ſhrewdly put to it by te enemy, but yet they got honour, te only ſalve that cures te Souldiers wounds. Sir <hi>Ralph Hoptons</hi> Dragooners have lately met with Sir <hi>William VVallers</hi> Dragooners, by whom they were turned into flying Dragons, and were awle compelled to run away, for to chance of warre can put wings upon te ſhoulders of the moſt valiant Souldier, and make tem truſt to their legs more then their Armes.</p>
+            <p>The Newes from <hi>Oxford</hi> is. that aul te affaires at Court are ſteered by te Cabinet Counſell, as <hi>Briſtoll, Cottington, Digby,</hi> and ſome other creat Lords friends to te <hi>Iriſh Rebells,</hi> and preferred to the places of creat truſt, that aul te world may ſee that te malignants deſigne is to extirpate the Proteſtants in <hi>Ireland,</hi> and to introduce Popery in <hi>England.</hi>
+            </p>
+            <p>Yet te bad minds of te people are by a divine power ſoon changed into a better temper, for thoſe two <hi>Iriſh</hi> Regements that came out with Colonell <hi>Vavaſour</hi> and <hi>Paulet,</hi> are moſt of them returned to te Parliament about <hi>Glo<g ref="char:EOLhyphen"/>ceſter</hi> &amp; <hi>Tewxbury;</hi> and creat ſhentlemen in te North Country have forſook te New-caſtle forces, and will no longer aſſiſt te King in regard of te ceſſation with te bloody Rebells in Ireland, for this ceſſation hath made creat ſouldiers fall away from te King, te cruell effects which will follow, being ſo cleerely manifeſted and knowne.</p>
+            <pb n="6" facs="tcp:155552:5"/>
+            <p>Her will now ſend you up ſome News from her own houſe in <hi>Wales,</hi> which her know to be true, and therefore it may be eaſily beleeved: and firſt her muſt inform you from te hall of her pigge-houſe, that all te guns &amp; Pikes that hung again te wall, are awl taken down to ſerve for Arms, to ſet out her Countrey-men: Whereby the Story of te wiſe <hi>Solomon,</hi> giving judgment between the true mother and te Harlot concerning doviding of te child, may be plainly diſcerned, the Morall whereof is, That true love can admit of no deſtroying di<g ref="char:EOLhyphen"/>viſion, and therefore ſuch as have divided te Commonwealth into one part for te King, and the other for te Parliament, are falſe-hearted Subjects both unto te State, and te Church of <hi>England.</hi> Her muſt tell you alſo, that her creat houſe. keeping is become ſo poor and wretched, that te Mouſe ſtarve in te Buttery, and te Cavaliere may riſe from her long table an hungry, and not be welcome neither; was ſtrange alteration in <hi>Wales.</hi>
+            </p>
+            <p>From her Kitchin her muſt inform you, that it hath not been warmed creat whiles: but will tell you News, that <hi>awl the Fat is in the fire</hi> (for her love Pro<g ref="char:EOLhyphen"/>verbs) that is, <hi>awl the fruitfulneſse of England will be conſumed in te flame of te Civill war.</hi> And heark you, there are more Jacks then in her kitchin, that have turned from te Parliament to te King, and from te King to te Parliament. And moreover awl her Countrey, and indeed awl te Kingdom doth now keep-a continuall Shrovetide, all their words and actions are Fritters of fraud, ſeeth<g ref="char:EOLhyphen"/>ing in te creat skillet of malignancy, awl her Spit is turned into long-ſword, wherewith her ſpit one another, as her doe Wodcock in her Countrey, one in te arſe of another. Te Biſhops and Lawyers were ſo ſat, that awl their con<g ref="char:EOLhyphen"/>ſcience dript from them, her was feed her ſelf, let her flocke ſtarve, creat pigg-bellys, love her kitchin better then te pulpit or te Commonwealth. Te malig<g ref="char:EOLhyphen"/>nants are like her half-baked Pyes, for between ſtanding for te King &amp; Parlia<g ref="char:EOLhyphen"/>ment they are luke-warme, and muſt come to te Oven, to make them hard and ſtiffe for Religion. The fury of te Iriſh Rebells is like her very hot boyl<g ref="char:EOLhyphen"/>ing pot of diſcention, and te skum of te Rebells fly over into England. But now from her ſtudy obſerve, it is worth notice, that awl her liberall Arts are turned into lying Arts, and her creat books of Hiſtory of War between <hi>Pompey</hi> and <hi>Ceſar</hi> doe bluſh in Vermilion to hear of te unnaturall war of te King againſt te Parliament. Her ſay alſo that her ſhould tell her that no good Oratour doth or can write againſt te King and Parliament, for <hi>nihil dicendum eſt de principi<g ref="char:EOLhyphen"/>bus &amp; Parliamento niſi bonum,</hi> we ought as te Frenchman ſaith, <hi>parley bien on parley rien,</hi> ſpeak well, or ſpeak nothing, and therefore to conclude well, <hi>
+                  <g ref="char:V">Ʋ</g>i<g ref="char:EOLhyphen"/>vat Rex fauſtum &amp; foelix ſit Parliamentum,</hi> God ſave te King, and bleſſe the proceedings of te Parliament; her cood write Greek too, but her would not poſe but pleaſe her Readers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
